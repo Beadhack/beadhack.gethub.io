@@ -49,6 +49,13 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+collections:
+  connecttech2018:
+    output: true
+    title: News from connect tech
+    description: What I learned at Connect Tech!
+    
+    
 #
 # !! You don't need to change any of the configuration flags below !!
 #
